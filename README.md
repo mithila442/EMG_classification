@@ -15,6 +15,8 @@ This project aims to develop a robust system for classifying hand gestures using
 - Evaluated using accuracy, precision, recall, and F1-score.
 - Swin Transformer showed the best balance between training and testing performance, while LSTM faced overfitting challenges.
 
+![Model Performance on EMG Gesture Classification](performance.png)
+
 ## Future Work
 - Improve model generalization with advanced data augmentation and regularization techniques.
 - Explore real-time classification and few-shot learning to handle class imbalances.
