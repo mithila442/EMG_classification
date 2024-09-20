@@ -1,10 +1,10 @@
-# EMG-Based Gesture Classification System
+# Developing a Robust EMG-Based Gesture Classification System.
 
 This project aims to develop a robust system for classifying hand gestures using electromyography (EMG) data. The project leverages advanced deep learning models including LSTM, 1D CNN, Vision Transformer (ViT), and Swin Transformer to interpret EMG signals for applications in prosthetic control and rehabilitation.
 
 ## Dataset
 - **Source**: UCI Machine Learning Repository
-- **Description**: EMG signals captured using the MYO Thalmic bracelet from 36 subjects performing various hand gestures.
+- **Description**: EMG signals were captured using the MYO Thalmic bracelet from 36 subjects performing various hand gestures.
 
 ## Methodology
 - **Models**: LSTM, 1D CNN, Vision Transformer, Swin Transformer
